@@ -677,4 +677,139 @@ DESCRIPTION:直播即将开始
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20230506T200000
+UID: 12664822BBC0_xt@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20230506T200000
+DURATION:PT120M
+SUMMARY:星瞳_official 2D直播
+URL:https://live.bilibili.com/82568
+DESCRIPTION:@星瞳_official 2D直播 https://live.bilibili.com/82568
+LOCATION:@星瞳_official 直播间 https://live.bilibili.com/82568  
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20230509T200000
+UID: 126648508280_xt@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20230509T200000
+DURATION:PT120M
+SUMMARY:星瞳_official 2D直播
+URL:https://live.bilibili.com/82568
+DESCRIPTION:@星瞳_official 2D直播 https://live.bilibili.com/82568
+LOCATION:@星瞳_official 直播间 https://live.bilibili.com/82568  
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20230513T200000
+UID: 1266488D8B80_xt@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20230513T200000
+DURATION:PT120M
+SUMMARY:星瞳_official 3D直播
+URL:https://live.bilibili.com/82568
+DESCRIPTION:@星瞳_official 3D直播 https://live.bilibili.com/82568
+LOCATION:@星瞳_official 直播间 https://live.bilibili.com/82568  
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20230516T200000
+UID: 126648BB5240_xt@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20230516T200000
+DURATION:PT120M
+SUMMARY:星瞳_official 2D直播
+URL:https://live.bilibili.com/82568
+DESCRIPTION:@星瞳_official 2D直播 https://live.bilibili.com/82568
+LOCATION:@星瞳_official 直播间 https://live.bilibili.com/82568  
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20230517T200000
+UID: 126648CA9480_xt@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20230517T200000
+DURATION:PT120M
+SUMMARY:星瞳_official 2D直播（联动）
+URL:https://live.bilibili.com/82568
+DESCRIPTION:@星瞳_official 2D直播（联动）https://live.bilibili.com/82568
+LOCATION:@星瞳_official 直播间 https://live.bilibili.com/82568  
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20230520T200000
+UID: 126648F85B40_xt@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20230520T200000
+DURATION:PT120M
+SUMMARY:星瞳_official 3D直播
+URL:https://live.bilibili.com/82568
+DESCRIPTION:@星瞳_official 3D直播 https://live.bilibili.com/82568
+LOCATION:@星瞳_official 直播间 https://live.bilibili.com/82568  
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20230523T200000
+UID: 126649262200_xt@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20230523T200000
+DURATION:PT120M
+SUMMARY:星瞳_official 电台直播
+URL:https://live.bilibili.com/82568
+DESCRIPTION:@星瞳_official 电台直播 https://live.bilibili.com/82568
+LOCATION:@星瞳_official 直播间 https://live.bilibili.com/82568  
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20230527T200000
+UID: 126649632B00_xt@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20230527T200000
+DURATION:PT120M
+SUMMARY:星瞳_official 3D直播（大活）
+URL:https://live.bilibili.com/82568
+DESCRIPTION:@星瞳_official 3D直播 https://live.bilibili.com/82568
+LOCATION:@星瞳_official 直播间 https://live.bilibili.com/82568  
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;TZID=Asia/Shanghai:20230528T200000
+UID: 126649632B00_xt@bilibili.com
+DTSTART;TZID=Asia/Shanghai:20230528T200000
+DURATION:PT120M
+SUMMARY:星瞳_official 2D直播（答谢回）
+URL:https://live.bilibili.com/82568
+DESCRIPTION:@星瞳_official 2D直播 https://live.bilibili.com/82568
+LOCATION:@星瞳_official 直播间 https://live.bilibili.com/82568  
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:直播即将开始
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
